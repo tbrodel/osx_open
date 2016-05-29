@@ -1,6 +1,6 @@
-#osx\_open
+#[osx\_open]
 
-An Max/MSP external to open files with their default application on OS X 
+A Max/MSP external to open files with their default application on OS X 
 
 Built against max-sdk-7.1.0 on OS X 10.11. No idea about backwards compat. 
 
